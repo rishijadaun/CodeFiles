@@ -1,4 +1,4 @@
-# CodeFiles
+# CodeFiles Wordpress Theme
 CodeFiles theme Rapidly build modern websites without ever leaving your HTML. A modern, flexible, fast and truly multipurpose theme for any type of business website.
 
 ## Description: Rapidly build modern websites without ever leaving your HTML. A modern, flexible, fast and truly multipurpose WordPress theme for any type of business website.
